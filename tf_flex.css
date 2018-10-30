@@ -2,10 +2,8 @@
 
 /*
 this is some code ! 
-html {
-	background-color: blue;
-}
 
+IDK how this will render lol
 :)
 
 */
@@ -21,6 +19,9 @@ body {
 	
 	-webkit-flex-row: row wrap;
 	flex-flow: row wrap;
+}
+html {
+	background-color: blue;
 }
 header, footer {
 	width: 100%;
